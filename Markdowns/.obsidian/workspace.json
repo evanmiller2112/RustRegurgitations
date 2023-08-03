@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "15782a4c81dd67f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3843adda7d8dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3078c872375b9340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30188dd0e18ba685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Hello, World!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da109d8333226aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Hello, World!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1fd51fdec8efe58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Hello, World!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d5bef33927e5c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999. Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e09a8be2fa6746f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Projects, Libraries, Builds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b89426aeb851e62f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2943dc07df3c007f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ce28581a3039e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a468a9f78d51312f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bccfa99924cf8e7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47a171667607d026",
+    "type": "split",
+    "children": [
+      {
+        "id": "e63106d620bd7f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "189ff4727539dc77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Projects, Libraries, Builds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e06f24a13a2e4116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Projects, Libraries, Builds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08292413f617e959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4431d7d1a2f540e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Projects, Libraries, Builds.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e09a8be2fa6746f",
+  "lastOpenFiles": [
+    "3. Hello, World!.md",
+    "998. References.md",
+    "999. Resources.md",
+    "4. Projects, Libraries, Builds.md",
+    "5. New Projects.md",
+    "Untitled",
+    "2. Install.md",
+    "1. Intro.md"
+  ]
+}
